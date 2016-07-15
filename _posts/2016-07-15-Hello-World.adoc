@@ -1,0 +1,8 @@
+= Hello World
+:hp-tags: Information, Announcements,
+
+== East Central Wisconsin Emergency Communications
+
+=== Open Source Code
+
+This blog is intented as a place for information on any ECWEC code releases and documentation.
