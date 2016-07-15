@@ -4,7 +4,14 @@
     "repositoryName": "ecwec.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "ECWEC Code",
+    "description": "East Central Wisconsin Emergency Communications Open Source Software"
+  },
+  "socialnetwork": {
+    "github": "ecwec"
+  },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
